@@ -1,0 +1,1 @@
+C:/Users/Devin/AppData/Local/nvim/init.vim
