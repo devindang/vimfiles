@@ -8,7 +8,6 @@ Plug 'itchyny/vim-cursorword'
 call plug#end()
 
 " options
-language en
 syntax on
 filetype indent on
 set showcmd
