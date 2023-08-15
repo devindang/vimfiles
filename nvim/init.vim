@@ -30,6 +30,8 @@ map Q : qa<CR>
 map <C-s> :w<CR>
 map <C-q> :q<CR>
 map <C-t> :tabe<CR>
+map <F1> <Nop>
+imap <F1> <Nop>
 
 " LEADER
 let mapleader=" "
