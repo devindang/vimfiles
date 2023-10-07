@@ -49,6 +49,9 @@ map <LEADER><CR> :nohlsearch<CR>
 
 iab <expr> dts strftime("%Y-%m-%d %H:%M:%S")
 
+" airline
+let g:airline#extensions#tabline#enabled = 1
+
 " NERDTree
 nmap <C-n> :NERDTreeToggle<CR>
 
